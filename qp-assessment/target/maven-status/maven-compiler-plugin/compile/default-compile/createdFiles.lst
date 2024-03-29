@@ -1,0 +1,9 @@
+com\example\qpassessment\service\UserService.class
+com\example\qpassessment\model\Grocery.class
+com\example\qpassessment\model\Order.class
+com\example\qpassessment\QpAssessmentApplication.class
+com\example\qpassessment\service\AdminService.class
+com\example\qpassessment\controller\AdminController.class
+com\example\qpassessment\repository\OrderRepository.class
+com\example\qpassessment\repository\GroceryRepository.class
+com\example\qpassessment\controller\UserController.class
